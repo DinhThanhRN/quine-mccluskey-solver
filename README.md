@@ -1,5 +1,5 @@
 1. Author: Trinh Dinh Thanh - 21200354, Faculty of Electronic and Telecommunication, HCMUS - VNUHCM.
-2. Description: Q.McCluskey solver is an Android app to implement Quine McCluskey algorithm to simply logical expressions.
+2. Description: Q.McCluskey solver is an Android app to implement Quine McCluskey algorithm to simply logical expressions. Q.McCluskey Solver is developed by React Native framework and Typescript.
    The UI is cloned from https://geeekyboy.github.io/Quine-McCluskey-Solver/
 3. Installing:
 
